@@ -32,7 +32,8 @@ collaborate with like-minded developers!
 
 📌HackerRank : https://www.hackerrank.com/profile/amirthanams03
 
-🔖To Reach Me :
+
+🔖To Reach Me :<br/>
 
 Email : amirthanams03@gmail.com
 
