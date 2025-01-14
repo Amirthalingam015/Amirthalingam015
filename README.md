@@ -36,7 +36,8 @@ collaborate with like-minded developers!
 🔖To Reach Me :
 
 
-Email : amirthanams03@gmail.com
+Email :
+amirthanams03@gmail.com
 
 Linkedin : http://www.linkedin.com/in/amirthalingams
 
