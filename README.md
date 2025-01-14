@@ -1,16 +1,40 @@
-## Hi there 👋
+👋Hi! I’m Amirthalingam,
 
-<!--
-**Amirthalingam015/Amirthalingam015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😊Welcome to My page
 
-Here are some ideas to get you started:
+👨‍🎓About Me…
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently pursuing my Master of Computer
+Applications (MCA), with a strong foundation in software
+development and problem-solving. I am passionate about
+coding and constantly strive to enhance my skills in various
+programming languages and technologies.
+
+📝SKILLS:
+
+📍Programming Languages: Java, C++.
+
+📍Web Development: HTML, CSS.
+
+📍Concepts: Object-Oriented Programming (OOP),
+Data Structures, Algorithms.
+
+📍Problem Solving: Proficient in tackling algorithmic
+challenges and optimizing code.
+
+🙋🏻‍♂️I am always exploring new technologies and looking for
+opportunities to learn, grow, and contribute to exciting
+projects. Feel free to explore my repositories, and I’d love to
+collaborate with like-minded developers!
+
+
+📌Leetcode : https://leetcode.com/u/AMIRTHALINGAM-S/
+
+📌HackerRank : https://www.hackerrank.com/profile/amirthanams03
+
+🔖To Reach Me :
+Email : amirthanams03@gmail.com
+
+Linkedin : http://www.linkedin.com/in/amirthalingams
+
+🙏Thanks for visiting My page…
